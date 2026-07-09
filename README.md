@@ -1,6 +1,8 @@
 # 3354-Dishcovery
 CS/SE/CE 3354 Project 
+
 **Dishcovery**
+
 Our project is a matchmaking software system for restaurants. The goal of the
 system is to help customers find restaurants based on what they’re looking for,
 such as the type of food, price range, location, and overall dining preference.
